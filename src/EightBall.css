@@ -1,0 +1,23 @@
+.EightBall {
+    height: 400px;
+    display: inline-block;
+    width: 400px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.msg {
+    color: white;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
